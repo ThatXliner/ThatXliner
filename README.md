@@ -17,7 +17,7 @@ My coding arsenal:
  - C++
  - Swift
  - JavaScript
- - Ruby
+ - Ruby [![](https://www.ruby-lang.org/)](ruby-logo.png) <!--Will change to assets/images/logos/ruby-logo.svg-->
  
  
 ## Why?
