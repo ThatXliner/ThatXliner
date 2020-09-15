@@ -17,7 +17,7 @@ My coding arsenal:
  - C++
  - Swift
  - JavaScript
- - Ruby [![](https://www.ruby-lang.org/)](ruby-logo.png) <!--Will change to assets/images/logos/ruby-logo.svg-->
+ - Ruby [![Ruby Logo](ruby-logo.png)](https://www.ruby-lang.org/ "Ruby's website") <!--Will change to assets/images/logos/ruby-logo.svg-->
  
  
 ## Why?
