@@ -4,7 +4,7 @@ Hehe :sweat_smile:, this file is still in progress.
 
 My coding arsenal:
 
- - [Python](https://www.python.org/)
+ - [Python](https://www.python.org/) <a href="https://www.python.org/" title="Python's website"><sub><img src="python-logo.svg" alt="Python's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/python-logo.svg-->
  - [Atom](https://atom.io/)
  - [Kite](https://www.kite.com/)
  - [TabNine](https://www.tabnine.com/)
@@ -17,7 +17,7 @@ My coding arsenal:
  - C++
  - Swift
  - JavaScript
- - Ruby <a href="(https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
+ - Ruby <a href="https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
  
  
 ## Why?
