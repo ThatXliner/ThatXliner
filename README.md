@@ -17,7 +17,7 @@ My coding arsenal:
  - C++
  - Swift
  - JavaScript
- - Ruby [![Ruby Logo](ruby-logo.png)](https://www.ruby-lang.org/ "Ruby's website") <!--Will change to assets/images/logos/ruby-logo.svg-->
+ - Ruby <a href="(https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
  
  
 ## Why?
