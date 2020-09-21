@@ -16,10 +16,10 @@ Languages I know:
 Languages I'm learning (in priority order):
  - [Chinese](https://www.duolingo.com/course/zh/en/Learn-Chinese "Learn Chinese")
  - C++
- - Swift
  - [JavaScript](https://www.ecma-international.org/ "ECMAScript's (JavaScript) surprisingly ugly website") <a href="https://www.ecma-international.org/" title="ECMAScript's (JavaScript) surprisingly ugly website"><sub><img src="javascript-logo.svg" alt="JavaScript's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/javascript-logo.svg-->
  - [Ruby](https://www.ruby-lang.org/ "Ruby's website") <a href="https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
- 
+ - Swift
+ - Rust
 ---
  
  
