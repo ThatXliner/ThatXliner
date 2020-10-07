@@ -25,12 +25,29 @@ Languages I'm learning (in priority order):
  
 ## Why?
 
-In progress...
+---
 
-[![ThatXliner's github stats](https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Bryan
+#### A pythoniast and maker of many things
+![A pythoniast and maker of many things](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
+Skills: Python 🐍 | Webscraping 🌐 | CLI tools 💻
+
+- 🌱 I’m currently learning C++ 
+- 🤔 I’m looking for help with Learning C++ 
+- 💬 Ask me about Python 
+- 📫 How to reach me: bryan.hu.2020@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThatXliner)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/ThatXliner)  
 
 
 
