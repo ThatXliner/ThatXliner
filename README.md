@@ -17,7 +17,7 @@ Languages I'm learning (in priority order):
  - [Chinese](https://www.duolingo.com/course/zh/en/Learn-Chinese "Learn Chinese")
  - C++ <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="Wikipedia Article on C++"><sub><img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++ Icon" width="25" height="25"></sub></a>
  - [JavaScript](https://www.ecma-international.org/ "ECMAScript's (JavaScript) surprisingly ugly website") <a href="https://www.ecma-international.org/" title="ECMAScript's (JavaScript) surprisingly ugly website"><sub><img src="javascript-logo.svg" alt="JavaScript's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/javascript-logo.svg-->
- - Rust <a href="https://www.python.org/" title="Python's website"><sub><img src="python-logo.svg" alt="Python's logo" width="25" height="25"></sub></a>
+ - Rust <a href="https://www.rust-lang.org/" title="Rust's website"><sub><img src="rust-logo.svg" alt="Rust's logo" width="25" height="25"></sub></a>
  - Swift <a href="https://developer.apple.com/swift/" title="Swift's developer.apple site"><sub><img src="https://simpleicons.org/icons/swift.svg" alt="Swift Icon" width="25" height="25"></sub></a>
  - [Ruby](https://www.ruby-lang.org/ "Ruby's website") <a href="https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
 ---
