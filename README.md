@@ -25,9 +25,9 @@ Languages I'm learning (in priority order):
  
 ## Why?
 
-I'm learning C++ because it's a fast language and highly-supported. But it's not usable IMO so I'm mainly learning it for the spftware engineering/programming practices. That is, so I can read other peoples code, learn C-based languages (which really [shouldn't happen][c sucks]) faster and maybe figure some design aspects if I ever want to create my own language.
+I'm learning C++ because it's a fast language and highly-supported. But it's not usable IMO (in my opinion) so I'm mainly learning it for the software engineering/programming practices. That is, so I can read other peoples code, learn C-based languages (which really [shouldn't happen][c sucks]) faster and maybe figure some design aspects if I ever want to create my own language.
 
-I'm learning Rust (or maybe V or kaybe Go) for any sort of problem that has libraries written in it or if I just need things faster or if I just can't do it in epic Python.
+I'm learning Rust (or maybe V or maybe Go) for any sort of problem that has libraries written in it or if I just need things faster or if I just can't do it in epic Python.
 
 I'm learning Swift cuz why not? It's a beautiful language, and I may look at Julia after.
 
