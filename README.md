@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hehe :sweat_smile:, this file is still in progress. (If you want, check out my [discord server](https://discord.gg/7YHfbBUh4n))
+Hehe :sweat_smile:, this file is still in progress. (If you want, check out my Discord Server)
+
+<iframe src="https://discord.com/widget?id=801891944635695124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 My coding arsenal:
 
