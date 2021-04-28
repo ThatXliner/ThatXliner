@@ -54,7 +54,7 @@ Skills: Python 🐍 | Webscraping 🌐 | CLI tools 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true&theme=dracula)  
 
 ![Profile views](https://gpvc.arturio.dev/ThatXliner)  
 
