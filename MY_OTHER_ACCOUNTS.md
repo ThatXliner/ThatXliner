@@ -1,6 +1,6 @@
 ## What is this
 
-Too many people are trying to impose as me, faking my identify, and other ways into making people think they are so they can get me in trouble.
+Too many people are trying to impose as me, faking my identify, and other ways into making people think they are so they can get me in trouble. (By the way, [that's illegal](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=530.5.&lawCode=PEN))
 
 So lemme get this straight: I *have* other accounts. Only the accounts listed here are verified to be me:
 
