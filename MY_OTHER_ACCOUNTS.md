@@ -11,6 +11,7 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - Discord: ThatXliner#1995 (snowflake: 743235941044584530)
  - [PyPi](https://pypi.org/user/theXliner/)
  - Clash Royale: Lyner (player tag: #GC8R2UYUG)
+ - [Reddit](https://www.reddit.com/user/ThatXliner)
 
 
 ## The NOT list
