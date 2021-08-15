@@ -12,6 +12,7 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - [PyPi](https://pypi.org/user/theXliner/)
  - Clash Royale: Lyner (player tag: #GC8R2UYUG)
  - [Reddit](https://www.reddit.com/user/ThatXliner)
+ - Chess.com: `thatxliner`
 
 
 ## The NOT list
