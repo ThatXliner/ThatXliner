@@ -1,3 +1,5 @@
+**IF YOU FOUND SOMEONE ONLINE AND THINK IT'S ME, PLEASE SEE [HERE](https://git.io/JEqnt) BEFORE YOU CONTINUE!**
+
 ### Hi there 👋
 
 Hehe :sweat_smile:, this file is still in progress. (If you want, check out my Discord Server <sub><a href="https://discord.gg/7YHfbBUh4n"><img alt="Discord" src="https://img.shields.io/discord/801891944635695124?label=Discord&logo=discord&style=flat"></a></sub>)
