@@ -21,3 +21,4 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
 
 These people are trying to fake me. Do not be fooled.
  - [Urban Dictionary](https://www.urbandictionary.com/author.php?author=ThatXLiner)
+ - Discord: 794718331532738591
