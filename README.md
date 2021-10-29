@@ -1,57 +1,60 @@
 **IF YOU FOUND SOMEONE ONLINE AND THINK IT'S ME, PLEASE SEE [HERE](https://git.io/JEqnt) BEFORE YOU CONTINUE!**
 
-### Hi there 👋
+# 👋 Hi!
+I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble in JavaScript (but can whip up some scripts if I want to), and I’m learning Rust.
 
-Hehe :sweat_smile:, this file is still in progress. (If you want, check out my Discord Server <sub><a href="https://discord.gg/7YHfbBUh4n"><img alt="Discord" src="https://img.shields.io/discord/801891944635695124?label=Discord&logo=discord&style=flat"></a></sub>)
+## Programming arsenal
+- [Atom](https://atom.io)
+- [Kite](https://www.kite.com) + [TabNine](https://www.tabnine.com)
+- [Python](https://www.python.org)
+- [JavaScript](http://www.ecmascript.org)
+- [Rust](https://www.rust-lang.org)
 
-My coding arsenal:
+- - - -
+*The task is the monster, my tools are my weapons.*
 
- - [Python](https://www.python.org/ "Python's website") <a href="https://www.python.org/" title="Python's website"><sub><img src="python-logo.svg" alt="Python's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/python-logo.svg-->
- - [JavaScript](https://www.ecma-international.org/ "ECMAScript's (JavaScript) surprisingly ugly website") <a href="https://www.ecma-international.org/" title="ECMAScript's (JavaScript) surprisingly ugly website"><sub><img src="javascript-logo.svg" alt="JavaScript's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/javascript-logo.svg--> (kinda)
- - [Atom](https://atom.io/ "Atom's website!") :atom: [![Built with: Atom](https://img.shields.io/badge/Built%20with-Atom-brightgreen?logo=atom)](https://atom.io/)
- - [Kite](https://www.kite.com/ "Kite's Homepage")
- - [TabNine](https://www.tabnine.com/ "TabNine's Homepage")
- 
-Languages I know:
- - [English](https://www.duolingo.com/course/en/vi/Learn-English "Learn English")
- - [Python](https://www.python.org/ "Python's website") <a href="https://www.python.org/" title="Python's website"><sub><img src="python-logo.svg" alt="Python's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/python-logo.svg-->
- - [JavaScript](https://www.ecma-international.org/ "ECMAScript's (JavaScript) surprisingly ugly website") <a href="https://www.ecma-international.org/" title="ECMAScript's (JavaScript) surprisingly ugly website"><sub><img src="javascript-logo.svg" alt="JavaScript's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/javascript-logo.svg-->
- - [C++](https://en.wikipedia.org/wiki/C%2B%2B "Wikipedia Article on C++") <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="Wikipedia Article on C++"><sub><img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++ Icon" width="25" height="25"></sub></a> (mostly)
+Python is my main weapon of choice. I know a lot of Python. It was actually my first language! I’m fluent in it and I know how to use a lot of libraries for Python.
 
-Languages I'm learning (in priority order):
- - [Chinese](https://www.duolingo.com/course/zh/en/Learn-Chinese "Learn Chinese")
- - ~~[C++](https://en.wikipedia.org/wiki/C%2B%2B "Wikipedia Article on C++") <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="Wikipedia Article on C++"><sub><img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++ Icon" width="25" height="25"></sub></a>~~
- - ~~[JavaScript](https://www.ecma-international.org/ "ECMAScript's (JavaScript) surprisingly ugly website") <a href="https://www.ecma-international.org/" title="ECMAScript's (JavaScript) surprisingly ugly website"><sub><img src="javascript-logo.svg" alt="JavaScript's logo" width="25" height="25"></sub></a>~~ <!--Will change to assets/images/logos/javascript-logo.svg-->
- - [Rust](https://www.rust-lang.org/ "Rust's website") <a href="https://www.rust-lang.org/" title="Rust's website"><sub><img src="rust-logo.svg" alt="Rust's logo" width="25" height="25"></sub></a>
- - [Swift](https://developer.apple.com/swift/ "Swift's developer.apple site") <a href="https://developer.apple.com/swift/" title="Swift's developer.apple site"><sub><img src="https://simpleicons.org/icons/swift.svg" alt="Swift Icon" width="25" height="25"></sub></a>
- - [Ruby/Crystal](https://www.ruby-lang.org/ "Ruby's website") <a href="https://www.ruby-lang.org/" title="Ruby's website"><sub><img src="ruby-logo.svg" alt="Ruby's logo" width="25" height="25"></sub></a> <!--Will change to assets/images/logos/ruby-logo.svg-->
----
- 
- 
-## Why?
+JavaScript is for my casual scripting needs on the web. I use it whether I need to quickly scrape data from a site or need to use a JS library. Everyone should know JavaScript, not because it’s a good language but because the web is powered by it (and HTML… and CSS…).
 
-I'm learning C++ because it's a fast language and highly-supported. But it's not usable IMO (in my opinion) so I'm mainly learning it for the software engineering/programming practices. That is, so I can read other peoples code, learn C-based languages (which really [shouldn't happen][c sucks]) faster and maybe figure some design aspects if I ever want to create my own language.
+While I’ve only recently started learning Rust, I plan to use Rust (and C++ which I know, to some extent, as well) for speeding up my programs. Or if my future job requires it. Rust > C++
+- - - -
 
-I'm learning Rust (or maybe V or maybe Go) for any sort of problem that has libraries written in it or if I just need things faster or if I just can't do it in epic Python.
+## Skills
+### General skills
 
-I'm learning Swift cuz why not? It's a beautiful language, and I may look at Julia after.
+- Web scraping
+	- Browser automation (Selenium)
+	- Requests + BeautifulSoup
+- Text processing
+	- RegEx
+	- [Lark](https://github.com/lark-parser/lark)
 
-I'm learning JavaScript cuz :atom: (¯\\\_(ツ)\_/¯) and web dev. We *definetely* need more websites :cowboy_hat_face::+1:.
+### Programming languages
+
+% = how fluent I am
+- Python (95%)
+- JavaScript/TypeScript (70%)
+- C++ (only learning how to read it—60%)
+- Rust (still learning—40%)
+- Brainf (technically I know 100% of the language lol)
+- Swift (I haven’t really made any projects with it—55%)
+- V (I haven’t really made any projects with it but it’s pretty minimal—70%)
+- Svelte (80%)
+- HTML/CSS (Just search the reference/StackOverflow :trollface:—100%)
+
+### Technologies
+
+- Svelte (80%)
+- Pandas (60%)
+- React (60%)
+- (Postgre)SQL (80%)
+- Lark (I know how to use it but I'm not a master at making formal grammars—95%)
+- RegEx (Who doesn’t know RegExes?—100%)
 
 [c sucks]: https://eev.ee/blog/2016/12/01/lets-stop-copying-c/
 
 ---
-
-### Hi there 👋, my name is Bryan
-#### A pythoniast and maker of many things
-
-Skills: Python 🐍 | Webscraping 🌐 | CLI tools 💻
-
-- 🌱 I’m currently learning C++ 
-- 🤔 I’m looking for help with Learning C++ 
-- 💬 Ask me about Python 
-- 📫 How to reach me: bryan.hu.2020@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThatXliner)  
 
