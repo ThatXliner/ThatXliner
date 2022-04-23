@@ -29,6 +29,8 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 - Text processing
 	- RegEx
 	- [Lark](https://github.com/lark-parser/lark)
+- Projects (including the bells and whistles)
+- Googling (it's a skill, trust me)
 
 ### Programming languages
 
@@ -39,13 +41,13 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 - Rust (still learning—50%)
 - Brainf (technically I know 100% of the language lol)
 - Swift (I haven’t really made any projects with it—60%)
-- V (I haven’t really made any projects with it but it’s pretty minimal—70%)
-- Svelte (80%)
+- V (I haven’t really made any projects with it but it’s pretty minimal—60%)
+- Svelte (90%)
 - HTML/CSS (Just search the reference/StackOverflow :trollface:—100%)
 
 ### Technologies
 
-- Svelte (80%)
+- Svelte (100%)
 - Pandas (60%)
 - React (60%)
 - (Postgre)SQL (70%)
