@@ -8,6 +8,7 @@ I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble 
 - [Kite](https://www.kite.com) + [TabNine](https://www.tabnine.com)
 - [Python](https://www.python.org)
 - [JavaScript](http://www.ecmascript.org)
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Rust](https://www.rust-lang.org)
 
 - - - -
@@ -37,7 +38,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 % = how fluent I am
 - Python (95%)
 - JavaScript/TypeScript (70%)
-- C++ (only learning how to read it—60%)
+- C++ (70%)
 - Rust (still learning—50%)
 - Brainf (technically I know 100% of the language lol)
 - Swift (I haven’t really made any projects with it—60%)
