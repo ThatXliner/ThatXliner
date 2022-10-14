@@ -48,7 +48,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 
 ### Technologies
 
-- Svelte (100%)
+- Svelte (90%)
 - Pandas (60%)
 - React (60%)
 - (Postgre)SQL (70%)
