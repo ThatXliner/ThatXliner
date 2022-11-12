@@ -14,6 +14,8 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - Clash Royale: Lyner (player tag: `#GC8R2UYUG`)
  - [Reddit](https://www.reddit.com/user/ThatXliner): `ThatXliner`
  - [Chess.com](https://www.chess.com/member/thatxliner): `thatxliner`
+ - [Instagram](https://www.instagram.com/thatxliner/)
+ - [FaceBook](https://www.facebook.com/profile.php?id=100076146655474)
 
 
 ## The NOT list
