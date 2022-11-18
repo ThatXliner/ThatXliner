@@ -36,10 +36,10 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 ### Programming languages
 
 % = how fluent I am
-- Python (95%)
+- Python (97%)
 - JavaScript/TypeScript (70%)
 - C++ (70%)
-- Rust (still learning—50%)
+- Rust (still learning—70%)
 - Brainf (technically I know 100% of the language lol)
 - Swift (I haven’t really made any projects with it—60%)
 - V (I haven’t really made any projects with it but it’s pretty minimal—60%)
@@ -48,9 +48,9 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 
 ### Technologies
 
-- Svelte (90%)
+- Svelte (95%)
 - Pandas (60%)
-- React (60%)
+- React (65%)
 - (Postgre)SQL (70%)
 - Lark (I know how to use it but I'm not a master at making formal grammars—95%)
 - RegEx (Who doesn’t know RegExes?—100%)
