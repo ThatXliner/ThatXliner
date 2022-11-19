@@ -15,7 +15,8 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - [Reddit](https://www.reddit.com/user/ThatXliner): `ThatXliner`
  - [Chess.com](https://www.chess.com/member/thatxliner): `thatxliner`
  - [Instagram](https://www.instagram.com/thatxliner/)
- - [FaceBook](https://www.facebook.com/profile.php?id=100076146655474)
+ - [Facebook](https://www.facebook.com/profile.php?id=100076146655474)
+ - [Spotify](https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm)
 
 
 ## The NOT list
