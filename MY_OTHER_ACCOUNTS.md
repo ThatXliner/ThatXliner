@@ -6,14 +6,14 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
 
 ## The list
 
- - [Scratch](https://scratch.mit.edu/users/theXliner/): `theXliner`
+ - [Scratch](https://scratch.mit.edu/users/theXliner/)
  - [SoundCloud](https://soundcloud.com/thatxliner)
  - [StackOverflow](https://stackoverflow.com/users/15396573/thatxliner)
  - Discord: ThatXliner#1995 (snowflake: `743235941044584530`)
  - [PyPi](https://pypi.org/user/theXliner/)
  - Clash Royale: Lyner (player tag: `#GC8R2UYUG`)
- - [Reddit](https://www.reddit.com/user/ThatXliner): `ThatXliner`
- - [Chess.com](https://www.chess.com/member/thatxliner): `thatxliner`
+ - [Reddit](https://www.reddit.com/user/ThatXliner)
+ - [Chess.com](https://www.chess.com/member/thatxliner)
  - [Instagram](https://www.instagram.com/thatxliner/)
  - [Facebook](https://www.facebook.com/profile.php?id=100076146655474)
  - [Spotify](https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm)
