@@ -1,5 +1,6 @@
 **IF YOU FOUND SOMEONE ONLINE AND THINK IT'S ME, PLEASE SEE [HERE](https://git.io/JEqnt) BEFORE YOU CONTINUE!**
 
+
 # 👋 Hi!
 I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble in JavaScript (but can whip up some scripts if I want to), and I’m learning Rust.
 
@@ -22,6 +23,9 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 - - - -
 
 ## Skills
+
+
+
 ### General skills
 
 - Web scraping
@@ -36,15 +40,21 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 ### Programming languages
 
 % = how fluent I am
-- Python (97%)
-- JavaScript/TypeScript (70%)
-- C++ (70%)
-- Rust (still learning—70%)
-- Brainf (technically I know 100% of the language lol)
-- Swift (I haven’t really made any projects with it—60%)
-- V (I haven’t really made any projects with it but it’s pretty minimal—60%)
-- Svelte (90%)
-- HTML/CSS (Just search the reference/StackOverflow :trollface:—100%)
+<div style="display: flex; justify-content: space-evenly;">
+<ul>
+<li>Python (97%)</li>
+<li>JavaScript/TypeScript (70%)</li>
+<li>C++ (70%)</li>
+<li>Rust (still learning—70%)</li>
+<li>Brainf (technically I know 100% of the language lol)</li>
+<li>Swift (I haven’t really made any projects with it—60%)</li>
+<li>V (I haven’t really made any projects with it but it’s pretty minimal—60%)</li>
+<li>Svelte (90%)</li>
+<li>HTML/CSS (Just search the reference/StackOverflow :trollface:—100%)</li>
+</ul>
+<a style="float: right;" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner&langs_count=8"/></a>
+</div>
+
 
 ### Technologies
 
@@ -59,11 +69,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThatXliner)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true&theme=dracula)  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ThatXliner&show_icons=true&theme=dracula"/></a>
 
 ![Profile views](https://gpvc.arturio.dev/ThatXliner)  
 
