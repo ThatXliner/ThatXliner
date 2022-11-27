@@ -17,6 +17,7 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - [Instagram](https://www.instagram.com/thatxliner/)
  - [Facebook](https://www.facebook.com/profile.php?id=100076146655474)
  - [Spotify](https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm)
+ - Mastodon: [`@thatxliner@mas.to`](https://mas.to/@thatxliner)
 
 
 ## The NOT list
