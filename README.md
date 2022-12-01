@@ -61,7 +61,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 - Svelte (95%)
 - Pandas (60%)
 - React (65%)
-- (Postgre)SQL (70%)
+- (Postgre)SQL (50%)
 - Lark (I know how to use it but I'm not a master at making formal grammars—95%)
 - RegEx (Who doesn’t know RegExes?—100%)
 
