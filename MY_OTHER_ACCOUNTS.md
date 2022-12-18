@@ -18,6 +18,7 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - [Facebook](https://www.facebook.com/profile.php?id=100076146655474)
  - [Spotify](https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm)
  - Mastodon: [`@thatxliner@mas.to`](https://mas.to/@thatxliner)
+ - [MuseScore](https://musescore.com/user/57655676): `ThatXliner`
 
 
 ## The NOT list
