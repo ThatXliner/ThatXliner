@@ -42,9 +42,9 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 % = how fluent I am
 <div style="display: flex; justify-content: space-evenly;">
 <ul>
-<li>Python (97%)</li>
-<li>JavaScript/TypeScript (70%)</li>
-<li>C++ (70%)</li>
+<li>Python (97%) - on my way to be a master</li>
+<li>JavaScript/TypeScript (70%) - I don't know a lot of things, including the event loop</li>
+<li>C++ (70%) - I'm not sure if what I know right now is a lot or little</li>
 <li>Rust (still learning—70%)</li>
 <li>Brainf (technically I know 100% of the language lol)</li>
 <li>Swift (I haven’t really made any projects with it—60%)</li>
