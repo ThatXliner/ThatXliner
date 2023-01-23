@@ -49,7 +49,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 <li>Brainf (technically I know 100% of the language lol)</li>
 <li>Swift (I haven’t really made any projects with it—60%)</li>
 <li>V (I haven’t really made any projects with it but it’s pretty minimal—60%)</li>
-<li>Svelte (90%)</li>
+<li>Svelte (90%) - wth does key do</li>
 <li>HTML/CSS (Just search the reference/StackOverflow :trollface:—100%)</li>
 </ul>
 <a style="float: right;" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner&langs_count=8"/></a>
