@@ -73,7 +73,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 
 ![Profile views](https://gpvc.arturio.dev/ThatXliner)  
 
-
+<a rel="me" href="https://mas.to/@thatxliner">&nbsp;</a>
 
 <!--
 **ThatXliner/ThatXliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
