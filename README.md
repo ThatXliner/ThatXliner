@@ -45,7 +45,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 <li>Python (97%) - on my way to be a master</li>
 <li>JavaScript/TypeScript (70%) - I don't know a lot of things, including the event loop</li>
 <li>C++ (70%) - I'm not sure if what I know right now is a lot or little</li>
-<li>Rust (still learning—70%)</li>
+<li>Rust (70%) - Everything but the hard stuff like ownership, borrowing, lifetimes, and async Rust</li>
 <li>Brainf (technically I know 100% of the language lol)</li>
 <li>Swift (I haven’t really made any projects with it—60%)</li>
 <li>V (I haven’t really made any projects with it but it’s pretty minimal—60%)</li>
@@ -60,7 +60,8 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 
 - Svelte (95%)
 - Pandas (60%)
-- React (65%)
+- React (75%)
+- SolidJS (75%)
 - (Postgre)SQL (50%)
 - Lark (I know how to use it but I'm not a master at making formal grammars—95%)
 - RegEx (Who doesn’t know RegExes?—100%)
