@@ -63,6 +63,7 @@ While I’ve only recently started learning Rust, I plan to use Rust (and C++ wh
 - React (75%)
 - SolidJS (75%)
 - (Postgre)SQL (50%)
+- Arduino (70%)
 - Lark (I know how to use it but I'm not a master at making formal grammars—95%)
 - RegEx (Who doesn’t know RegExes?—100%)
 
