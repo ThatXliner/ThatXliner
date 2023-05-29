@@ -5,6 +5,9 @@
 I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble in JavaScript (but can whip up some scripts if I want to), and I’m learning Rust.
 
 ## Programming arsenal
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,astro,atom,bootstrap,cpp,css,discord,git,github,html,js,md,py,raspberrypi,regex,rust,sass,sqlite,selenium,solidjs,svelte,tailwind,tauri,ts,vite)](https://skillicons.dev)
+
 - [Atom](https://atom.io)
 - [Kite](https://www.kite.com) + [TabNine](https://www.tabnine.com)
 - [Python](https://www.python.org)
