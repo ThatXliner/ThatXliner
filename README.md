@@ -2,7 +2,7 @@
 
 ---
 
-I'm currently a high achooler looking for summer jobs/potential internships.
+I'm currently a high achooler looking for summer jobs/potential internships. Email me at [thatxliner at gmail dot com](mailto:thatxliner@gmail.com)
 
 
 # 👋 Hi!
