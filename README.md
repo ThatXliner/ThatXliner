@@ -1,5 +1,9 @@
 **IF YOU FOUND SOMEONE ONLINE AND THINK IT'S ME, PLEASE SEE [HERE](https://git.io/JEqnt) BEFORE YOU CONTINUE!**
 
+---
+
+I'm currently a high achooler looking for summer jobs/potential internships.
+
 
 # 👋 Hi!
 I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble in JavaScript (but can whip up some scripts if I want to), and I’m learning Rust.
