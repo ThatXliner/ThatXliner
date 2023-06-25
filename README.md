@@ -2,7 +2,7 @@
 
 
 # 👋 Hi!
-I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, dabble in JavaScript (but can whip up some scripts if I want to), and I’m learning Rust.
+I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, C++ for USACO, make web apps in JavaScript/NodeJS or Svelte, and I’m learning Rust.
 
 ## Programming arsenal
 
