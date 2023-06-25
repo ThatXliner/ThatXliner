@@ -1,8 +1,4 @@
-**IF YOU FOUND SOMEONE ONLINE AND THINK IT'S ME, PLEASE SEE [HERE](https://git.io/JEqnt) BEFORE YOU CONTINUE!**
-
----
-
-I'm currently a high achooler looking for summer jobs/potential internships. Email me at [thatxliner at gmail dot com](mailto:thatxliner@gmail.com)
+<!-- I'm currently a high achooler looking for summer jobs/potential internships. Email me at [thatxliner at gmail dot com](mailto:thatxliner@gmail.com) -->
 
 
 # 👋 Hi!
