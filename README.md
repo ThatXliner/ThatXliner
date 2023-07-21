@@ -1,5 +1,6 @@
 <!-- I'm currently a high achooler looking for summer jobs/potential internships. Email me at [thatxliner at gmail dot com](mailto:thatxliner@gmail.com) -->
 
+![Written by: humans](https://img.shields.io/badge/written_by-humans-limegreen)
 
 # 👋 Hi!
 I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, C++ for USACO, make web apps in JavaScript/NodeJS or Svelte, and I’m learning Rust.
