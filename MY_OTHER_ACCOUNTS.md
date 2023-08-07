@@ -19,6 +19,7 @@ So lemme get this straight: I *have* other accounts. Only the accounts listed he
  - [Spotify](https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm)
  - Mastodon: [`@thatxliner@mas.to`](https://mas.to/@thatxliner)
  - [MuseScore](https://musescore.com/user/57655676): `ThatXliner`
+ - [Hacker News](https://news.ycombinator.com/user?id=thatxliner)
 
 
 ## The NOT list
