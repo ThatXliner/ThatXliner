@@ -5,6 +5,9 @@
 # 👋 Hi!
 I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, C++ for USACO, make web apps in JavaScript/NodeJS or Svelte, and I’m learning Rust.
 
+Send me ETH here: `0xbE95Fd98881cc3ab32d72972C3fBEaa77b561aCD`
+Send me Bitcoin here: `bc1q3y2g6k7lacccnzm35uxhj0tp94q0afckk6tjpa`
+
 ## Programming arsenal
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,astro,atom,bootstrap,cpp,css,discord,git,github,html,js,md,py,raspberrypi,regex,rust,sass,sqlite,selenium,solidjs,svelte,tailwind,tauri,ts,vite)](https://skillicons.dev)
