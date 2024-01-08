@@ -1,5 +1,7 @@
 <!-- I'm currently a high achooler looking for summer jobs/potential internships. Email me at [thatxliner at gmail dot com](mailto:thatxliner@gmail.com) -->
 
+I have a work in progress [resume](https://thatxliner.github.io/resume/)
+
 ![Written by: humans](https://img.shields.io/badge/written_by-humans-limegreen)
 
 # 👋 Hi!
