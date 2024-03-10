@@ -29,7 +29,7 @@ Send me Bitcoin here: `bc1q3y2g6k7lacccnzm35uxhj0tp94q0afckk6tjpa`
 
 - VSCode - for my everyday use
 - Zed - for collaborative coding
-- IntlliJ - for my FRC work
+- IntelliJ - for my FRC work
 - Vim - occasionally for quick edits in the terminal
 
 ### Essentials
