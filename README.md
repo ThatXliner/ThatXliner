@@ -10,16 +10,32 @@ I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, C++ for
 Send me ETH here: `0xbE95Fd98881cc3ab32d72972C3fBEaa77b561aCD`<br/>
 Send me Bitcoin here: `bc1q3y2g6k7lacccnzm35uxhj0tp94q0afckk6tjpa`
 
-## Programming arsenal
+## My gear
+
+- Raindrop laptop stand
+- M2 Pro MacBook Pro 16" (2023) - 16GB Unified Memory, 1TB SSD
+- Razer Orochi V2
+- Keychron K3 Pro - RGB hot-swappable with hybrid Gateron Red and Brown switches.
+- SteelSeries QcK mouspad
+- Tomtoc 360 protective laptop sleeve - Laptop carrying case for 16" for MacBook Pro
+
+## My skills (incomplete list)
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,astro,atom,bootstrap,cpp,css,discord,git,github,html,js,md,py,raspberrypi,regex,rust,sass,sqlite,selenium,solidjs,svelte,tailwind,tauri,ts,vite)](https://skillicons.dev)
 
-- [Atom](https://atom.io)
-- [Kite](https://www.kite.com) + [TabNine](https://www.tabnine.com)
-- [Python](https://www.python.org)
-- [JavaScript](http://www.ecmascript.org)
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [Rust](https://www.rust-lang.org)
+## My software
+
+### Editors
+
+- VSCode - for my everyday use
+- Zed - for collaborative coding
+- IntlliJ - for my FRC work
+- Vim - occasionally for quick edits in the terminal
+
+### Essentials
+
+- iTerm2 - my terminal emulator
+- Arc - amazing browser
 
 - - - -
 *The task is the monster, my tools are my weapons.*
