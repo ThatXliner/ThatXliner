@@ -12,7 +12,7 @@ Send me Bitcoin here: `bc1q3y2g6k7lacccnzm35uxhj0tp94q0afckk6tjpa`
 
 ## My gear
 
-- Raindrop laptop stand
+- Rain Design mStand
 - M2 Pro MacBook Pro 16" (2023) - 16GB Unified Memory, 1TB SSD
 - Razer Orochi V2
 - Keychron K3 Pro - RGB hot-swappable with hybrid Gateron Red and Brown switches.
