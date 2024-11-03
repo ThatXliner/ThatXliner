@@ -5,7 +5,7 @@ I have a work in progress [resume](https://thatxliner.github.io/resume/)
 ![Written by: humans](https://img.shields.io/badge/written_by-humans-limegreen)
 
 # 👋 Hi!
-I’m Bryan, a programmer who loves logic puzzles. I mainly know Python, C++ for USACO, make web apps in JavaScript/NodeJS or Svelte, and I’m learning Rust.
+I’m Bryan, a programmer who loves logic puzzles and building apps.
 
 Send me ETH here: `0xbE95Fd98881cc3ab32d72972C3fBEaa77b561aCD`<br/>
 Send me Bitcoin here: `bc1q3y2g6k7lacccnzm35uxhj0tp94q0afckk6tjpa`
